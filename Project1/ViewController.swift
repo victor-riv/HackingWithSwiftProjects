@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Project1
+//  Storm Viewer
 //
 //  Created by Victor Rivera on 6/9/19.
 //  Copyright © 2019 Victor Rivera. All rights reserved.
